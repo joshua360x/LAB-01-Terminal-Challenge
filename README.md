@@ -22,6 +22,7 @@ If you don't have a `~/alchemy` directory, go make one!
    |--|--|
    |files-to-remove/name.txt| My name is <your name> |
    |files-to-remove/foo-bar.txt | if foo then bar|
+1. ACP your changes
 1. Move files from `files-to-remove` to `empty` with `mv`
 1. Rename `empty` to `full` with `mv`.
 1. Remove newly empty `files-to-remove` directory with `rmdir`
